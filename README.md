@@ -17,6 +17,7 @@ The platform breaks down complex research workflows into specialized, conversati
 *   **Critic Chain:** Reviews the drafted report against strict quality guidelines, ensuring technical accuracy and factual compliance.
 
 ---
+## 📱 Application Interface
 | 1. Input UI | 2. Agent Execution | 3. Final Report |
 | :---: | :---: | :---: |
 | ![Input](images/1.png) | ![Logs](images/2.png) | ![Dossier](images/3.png) |
@@ -31,8 +32,3 @@ The platform breaks down complex research workflows into specialized, conversati
 ├── pipeline.py           # Core orchestrator managing LangGraph processing nodes
 ├── requirements.txt      # Automated deployment engine configuration manifest
 └── tools.py              # Custom utilities executing technical API lookups```
-## 📱 Application Interface
-
-| 1. Input UI | 2. Agent Execution | 3. Final Report |
-| :---: | :---: | :---: |
-| ![Input](images/1.png) | ![Logs](images/2.png) | ![Dossier](images/3.png) |
