@@ -3,7 +3,7 @@
 A production-ready, stateful multi-agent research workflow built using **LangGraph**, **LangChain**, and **Streamlit**. The application automates technical domain deep-dives by orchestrating specialized AI agents using an explicit supervisor pipeline layout. It fetches live web data, strips out systemic noise, synthesizes a structured report, and filters it through a critical grading loop—all powered by Google's **Gemini 2.5 Flash** model.
 
 ## 🚀 Live Demo
-Experience the active application on the cloud: **[Insert your Streamlit App URL here]**
+Experience the active application on the cloud: **[(https://the-research-dossier-mk3n2chbvs9xokwxr8x4qq.streamlit.app/)]**
 
 ---
 
